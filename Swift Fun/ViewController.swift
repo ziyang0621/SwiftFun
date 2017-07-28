@@ -32,6 +32,8 @@ class ViewController: UIViewController {
             
             myLabel.text = "You hit it more than 15 times!"
         }
+        
+        print("testing")
     }
     
     override func viewDidLoad() {
